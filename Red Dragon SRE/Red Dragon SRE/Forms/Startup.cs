@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Red_Dragon_SRE
+namespace Azvre.RedDragon.Forms
 {
-    public partial class Form1 : Form
+    public partial class Startup : Form
     {
-        public Form1()
+        public Startup()
         {
             InitializeComponent();
         }
